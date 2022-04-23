@@ -1,4 +1,5 @@
 <h1 align="center">App Dev: Storing Image and Video Files in Cloud Storage<project-name></h1>
+!(gcp.png)
 
 <p align="center"><project-description></p>
 
