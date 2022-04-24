@@ -1,6 +1,8 @@
 <h1 align="center">App Dev: Storing Image and Video Files in Cloud Storage<project-name></h1>
-!(gcp.png)
-
+<br>
+<div align="center">
+<br>  <img src = "repopics/gcp.png" width = 500>
+<br>
 <p align="center"><project-description></p>
 
 ## Screenshots
