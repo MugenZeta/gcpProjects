@@ -3,18 +3,16 @@
 <div align="center">
 <br>  <img src = "repopics/gcp.png" width = 500>
 <br>
+  </div>
 <p align="center"><project-description></p>
+
+
+## Description 
+In this project we created a Quiz App Engine application using Python, created a script to configure the application and created a Cloud Storage bucket to store/deploy the application.
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
-
-![](/screenshots/2.png)
-
-![](/screenshots/3.png)
-
-## Available Commands
-
+<img src = "repopics/Lab.png" width = 600>
 
 
 ## Built With
@@ -22,7 +20,7 @@
 - Google Cloud Storage
 - Python
 - Google Cloud CLI
-- Google Cloud Shell
+- Google Cloud Code Editor
 - App Engine
 - Datastore
 
